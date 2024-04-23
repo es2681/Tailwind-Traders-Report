@@ -11,6 +11,10 @@ Tailwind Traders is an international retailer for hardware products such as plum
 - The final report was published to a dashboard in Power BI Service.
 
 ## Analysis & Results
+### Microsoft Excel
+Excel formulas were used to calculate Gross Revenue, Total Tax, and Net Revenue for each product. These columns were added to the Sales Data table. The tables were reviewed for any blank cells.
+
+### Power BI
 
 
 ## Summary
