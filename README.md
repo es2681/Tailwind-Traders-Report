@@ -15,7 +15,7 @@ Tailwind Traders is an international retailer for hardware such as plumbing, lig
 Excel formulas were used to calculate Gross Revenue, Total Tax, and Net Revenue for each product. These columns were added to the Sales Data table.
 
 ### Configuring Data in Power BI
-The Microsoft Excel Sales Data, Purchases, and Countries tables were imported into Power BI. They were examined for blank cells or any unexpected entries. Each column was checked or altered to ensure the correct data type designation. A currency exchange table was added to the file so that the sales figures could later be homogenized.
+The Microsoft Excel Sales Data, Purchases, and Countries tables were imported into Power BI. They were examined for duplicate, null, or otherwise unexpected values. Each column was checked or altered to ensure the correct data type designation. A currency exchange table was added to the file so that the sales figures could later be homogenized.
 
 ### Designing the Data Model
 Table relationships were configured to develop a data model. Cardinality and cross filter direction were considered for each relationship to ensure accuracy. A Calendar table was generated using a DAX formula and then marked as a Date Table. Using the Exchange Data table, the Sales Data table was duplicated with all currency converted to US dollars and named Sales in USD.
