@@ -30,7 +30,7 @@ Graphs, charts, and other visuals were generated according to Tailwind Trader sp
 #### Profit Overview Page
 ![Profit Overview](https://github.com/es2681/Tailwind-Traders-Report/blob/main/Resources/Profit%20Overview.png)
 ### Creating an Executive Dashboard
-The finalized report was published to Power BI Service. Visuals were pinned to an Executive Dashboard where they were designed to be viewable via the web as well as a mobile device.
+The finalized report was published to Power BI Service. Visuals were pinned to an Executive Dashboard where they were designed to be user-friendly via the web as well as mobile devices.
 
 ## Summary
 Raw sales data at Tailwind Traders was cleaned, transformed, and visualized so that company executives could make data-driven decisions for their future marketing budget. Based on the high median sales distribution in the UAE yet the country's relatively low annual profit margin and total count of loyalty points, executives decided to increase marketing and promotions in the UAE to encourage more of these larger sales as well as drive customer loyalty. 
