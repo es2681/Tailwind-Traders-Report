@@ -24,7 +24,7 @@ Table relationships were configured to develop a data model. Cardinality and cro
 DAX code was used to calculate aggregations for Yearly Profit Margin, Quarterly Profit, Year-to-Date Profit and Median Sales. 
 
 ### Developing a Sales Report
-Graphs, charts, and other visuals were generated according to Tailwind Trader specifications into a Sales Report, including an overview of the company's sales and profits. Text was enlarged and the color theme was updated so that the report could be accessible to a greater audience.
+Graphs, charts, and other visuals were generated according to Tailwind Trader specifications into a Sales Report, including an overview of the company's sales and profits. Text was enlarged and the color theme was updated so that the report would be accessible to a greater audience.
 #### Sales Overview Page
 ![Sales Overview](https://github.com/es2681/Tailwind-Traders-Report/blob/main/Resources/Sales%20Overview.png)
 #### Profit Overview Page
